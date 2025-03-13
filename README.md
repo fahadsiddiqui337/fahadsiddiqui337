@@ -1,3 +1,4 @@
+![logo](https://github.com/fahadsiddiqui337/fahadsiddiqui337/blob/main/1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)
 <h1 align="center">Hi 👋, I'm Fahad ur Rehman</h1>
 <h3 align="center">A Passionate Data Scientist and AI enthusiast</h3>
 
