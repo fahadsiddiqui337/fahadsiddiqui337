@@ -54,7 +54,7 @@
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Generative AI(https://medium.com/@fahadsiddiqui337)
+(https://medium.com/@fahadsiddiqui337)
 <!-- BLOG-POST-LIST:END -->
 
 ---
